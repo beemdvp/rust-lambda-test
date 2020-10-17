@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "serverless": "^1.83.0",
+    "serverless-offline": "^6.8.0",
+    "serverless-rust": "^0.3.8"
+  },
+  "name": "rust-lambda"
+}
